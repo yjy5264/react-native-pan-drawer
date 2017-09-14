@@ -16,9 +16,9 @@ npm install react-native-pan-drawer --save
 import Drawer from 'react-native-pan-drawer'
 
 <Drawer
-    backgroundView = {() => {return <BackgroundView />}}
-    leftView = {() => {return <LeftView />}}
-    rightView = {() => {return <RightView />}}
+    backgroundView = {() => <BackgroundView />}
+    leftView = {() => <LeftView />}
+    rightView = {() => <RightView />}
     ref = {ref => this.drawer = ref}
 />
 

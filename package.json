@@ -1,15 +1,8 @@
 {
   "name": "react-native-pan-drawer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A cross-platform (iOS&Android), drawer component for React Native.",
   "main": "index.js",
-  "devDependencies": {
-    "react": "^15.1.0",
-    "react-native": "^0.27.0"
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "author": "yjy",
   "license": "MIT"
 }
